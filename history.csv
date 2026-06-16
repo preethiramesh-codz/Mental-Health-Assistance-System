@@ -1,0 +1,5 @@
+"Date,Prediction,Sentiment,Risk,WellnessScore,Input",Date,Prediction,Sentiment,Risk,WellnessScore,Input,Emotion
+,2026-06-16 21:11:01.585779,Depression,Positive 😊,Medium Risk 🟠,45.0,I feel completely hopeless. Nothing seems meaningful anymore. I feel isolated and helpless. I don't know how to move forward in life.,
+,2026-06-16 21:20:33.247258,Depression,Neutral 😐,High Risk 🔴,25.0,"I feel hopeless and helpless. Nothing makes sense anymore.
+",
+,2026-06-16 21:26:31.153265,Depression,Neutral 😐,High Risk 🔴,25.0,I feel hopeless and helpless. Nothing makes sense anymore.,Sadness 😔
