@@ -19,7 +19,7 @@ st.set_page_config(
 # LOAD MODEL
 # =========================
 
-model = joblib.load("model/mental_health_model.pkl")
+model = joblib.load("mental_health_model.pkl")
 
 # =========================
 # SIDEBAR
