@@ -29,6 +29,8 @@ An NLP and Machine Learning based system that analyzes user text, predicts menta
 Mental Health Text Dataset from Kaggle.
 
  Run Project:
+ https://mental-health-assistance-system-omwnzruqt2d8sfzcu7vo92.streamlit.app/
  
+
 pip install -r requirements.txt
 streamlit run app.py
